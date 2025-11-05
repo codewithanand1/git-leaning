@@ -9,3 +9,7 @@ function Indro()
 Indro()
 
 console.log("Interview Clear");
+console.log("Interview Clear");
+console.log("Interview Clear");
+console.log("Interview Clear");
+console.log("Interview Clear");
