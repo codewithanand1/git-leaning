@@ -1,0 +1,115 @@
+Basic Git Interview Questions
+
+What is Git?
+
+Why do we use Git?
+
+What is a repository in Git?
+
+Difference between Git and GitHub?
+
+What is git init?
+
+What is git add?
+
+What is git commit?
+
+What is git status?
+
+What is git push?
+
+What is git pull?
+
+What is git clone?
+
+What is a commit in Git?
+
+What is staging area in Git?
+
+What is working directory in Git?
+
+What is version control system?
+
+What is distributed version control system?
+
+What is branch in Git?
+
+What is main branch?
+
+How to create a new branch?
+
+How to switch branch?
+
+What is merge in Git?
+
+What is git merge?
+
+What is git checkout?
+
+What is git log?
+
+What is git remote?
+
+What is git pull vs git fetch?
+
+What is fast-forward merge?
+
+What is conflict in Git?
+
+How to resolve merge conflicts?
+
+What is .gitignore file?
+
+✅ GitHub Interview Questions
+
+What is GitHub?
+
+Why do we use GitHub?
+
+What is a GitHub repository?
+
+What is a fork?
+
+What is a pull request (PR)?
+
+What is GitHub clone?
+
+Difference between fork and clone?
+
+What is GitHub Actions?
+
+What is GitHub Issues?
+
+What is GitHub Pages?
+
+What is SSH key in GitHub?
+
+Why do we use SSH key?
+
+What is README file?
+
+What is commit message?
+
+What is GitHub workflow?
+
+✅ Common Practical / Real-Life Questions
+
+How do you upload a project to GitHub?
+
+How do you update code from GitHub?
+
+How do you undo commit?
+
+How to see commit history?
+
+How to remove a file from staging?
+
+How to delete a branch?
+
+How to rename a branch?
+
+How do you handle merge conflicts?
+
+How do you collaborate on GitHub?
+
+How do you create pull request?
